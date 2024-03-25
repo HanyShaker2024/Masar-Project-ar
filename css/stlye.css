@@ -162,7 +162,7 @@ header nav  li  a:hover{
     margin-top: 50px;
     background-color: #ddd;
     width: 100%;
-    height: 550px;
+    border-radius: 4px;
      position: relative; 
 }
 
@@ -170,12 +170,6 @@ header nav  li  a:hover{
     text-align: center;
     line-height: 150px;
     color: var(--main-color);
-}
-
-.body .intro iframe {
-     position: absolute;
-    right: 250px;
-    left: 0; 
 }
 
 .body .intro p {
